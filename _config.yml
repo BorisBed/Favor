@@ -12,7 +12,9 @@ description: > # Basic site description
 baseurl: "/Favor" # the subpath of your site, e.g. /blog
 url: "http://borisbed.github.io/Favor/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  BorisBed
+
+timezone: Europe/Berlin
 
 # Build settings
 markdown: kramdown
